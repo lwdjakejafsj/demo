@@ -12,6 +12,8 @@ public class demo {
 
         System.out.println("demo");
 
-        System.out.println("bbb");
+        System.out.println("aaa");
+
+        System.out.println("ccc");
     }
 }
